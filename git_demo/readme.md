@@ -38,4 +38,4 @@
 
 21. `git reset --soft HEAD~` -> it should point the head and the branch to previous commit
 
-22. git
+22. `git merge <branch_name>` -> merge the two branches
