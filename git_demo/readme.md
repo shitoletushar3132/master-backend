@@ -8,3 +8,9 @@
 5. `git rm --cache -r <folder_name>` this can moves the files from staging area to the working area
 
 6. `commit` -> commit is a particular version of the project. It captures a snapshot of the projects staged
+
+7. `git log` -> check the all commits
+
+8. `git restore <file>` -> it removes all files changes from the staging area to be committed. this can be useful, if we did some dirty code and now no want it. Instead of deleting every change line by line, we can restore it or you can say restore last clean version of the file
+
+9. 
