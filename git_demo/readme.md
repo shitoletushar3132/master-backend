@@ -30,4 +30,8 @@
 
 17. `git commit --amend`-> it can be commit the changes to the previous commit
 
-18. `git checkout -b <branch_name> ` -> it should be create and new branch
+18. `git branch` -> it should be show list of branchs
+
+19. `git checkout -b <branch_name> ` -> it should be create and new branch
+
+20. `git checkout <branch_name>` -> that can be shift the head pointer to the branch
