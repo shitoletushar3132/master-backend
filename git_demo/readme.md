@@ -35,3 +35,5 @@
 19. `git checkout -b <branch_name> ` -> it should be create and new branch
 
 20. `git checkout <branch_name>` -> that can be shift the head pointer to the branch
+
+21. `git merge <branch_name>` -> merge the two branches
