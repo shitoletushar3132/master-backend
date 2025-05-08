@@ -39,3 +39,7 @@
 21. `git reset --soft HEAD~` -> it should point the head and the branch to previous commit
 
 22. `git merge <branch_name>` -> merge the two branches
+
+23. `git cherry-pick <id>` -> if you want to pick a any one commit we use that
+
+24. `git fetch <repo_name> <branch_name>` -> it should only fetch the code not merge or fast-forward doing only fetch the code base where git pull should be also merge the code in main branch from other
